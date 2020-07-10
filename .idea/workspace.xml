@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20a59ca0-356b-45d7-8e63-50a5475b2da5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DaShuJuZhiDaPingZhanShi/.idea/DaShuJuZhiDaPingZhanShi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DaShuJuZhiDaPingZhanShi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DaShuJuZhiDaPingZhanShi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DaShuJuZhiDaPingZhanShi/智慧交通/大数据视频监控/js/bstable/.idea/ss.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DaShuJuZhiDaPingZhanShi/智慧交通/大数据视频监控/js/bstable/datel/table.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOT-Technical-Guide" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YueLife" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ali-iot-server" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aliyun-datahub-sdk-java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aopdemo-springboot/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aopdemo-springboot/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aopdemo-springboot/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aopdemo-springboot/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aopdemo-springboot/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aopdemo-springboot/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aopdemo-springboot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aopdemo-springboot/src/main/java/com/tracy/aopdemospringboot/AopdemoSpringbootApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aopdemo-springboot/src/main/java/com/tracy/aopdemospringboot/advice/LoggerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aopdemo-springboot/src/main/java/com/tracy/aopdemospringboot/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aopdemo-springboot/src/main/java/com/tracy/aopdemospringboot/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aopdemo-springboot/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aopdemo-springboot/src/test/java/com/tracy/aopdemospringboot/AopdemoSpringbootApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cuba-petclinic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cuba-petclinic-application-logging" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cuba-petclinic-intro-to-application-events" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cuba-petclinic-online-demo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cubademo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cubademo - 副本" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/tracy/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/test/java/com/tracy/demo/DemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distributed-security/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distributed-security/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distributed-security/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distributed-security/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distributed-security/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distributed-security/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distributed-security/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distributed-security/distributed-security-order/distributed-security-order.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distributed-security/distributed-security-order/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distributed-security/distributed-security-order/src/main/java/com.tracy.distributed.order/OrderServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distributed-security/distributed-security-uaa/distributed-security-uaa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distributed-security/distributed-security-uaa/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distributed-security/distributed-security-uaa/src/main/java/com.tracy.security/distributed/uaa/UAAServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distributed-security/distributed-security-uaa/src/main/java/com.tracy.security/distributed/uaa/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distributed-security/distributed-security-uaa/src/main/java/com.tracy.security/distributed/uaa/model/PermissionDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distributed-security/distributed-security-uaa/src/main/java/com.tracy.security/distributed/uaa/model/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distributed-security/distributed-security-uaa/src/main/java/com.tracy.security/distributed/uaa/service/SpringDataUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distributed-security/distributed-security-uaa/src/main/java/com/tracy/security/distributed/uaa/config/AuthorizationServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distributed-security/distributed-security-uaa/src/main/java/com/tracy/security/distributed/uaa/config/TokenConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distributed-security/distributed-security-uaa/src/main/java/com/tracy/security/distributed/uaa/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distributed-security/distributed-security-uaa/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../distributed-security/distributed-security.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../freedomotic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-springboot-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-springboot-demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-springboot-demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-springboot-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-springboot-demo/logs/spring.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-springboot-demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-springboot-demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-springboot-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-springboot-demo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-springboot-demo/src/main/java/com/example/demo/config/LogConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-springboot-demo/src/main/java/com/example/demo/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-springboot-demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-springboot-demo/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-springboot-demo/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../imitateiot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../imitateiot.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iot-aliyuniot-demo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iotdemo2/modules/global/src/com/company/iotdemo/entity/THDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iotdemo2/modules/global/src/com/company/iotdemo/entity/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa01.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa01/jpa-day3-manytomany/jpa-day3-manytomany.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa01/jpa-day3-manytomany/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa01/jpa-day3-manytomany/src/main/java/com/tracy/demo/day3/dao/RoleDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa01/jpa-day3-manytomany/src/main/java/com/tracy/demo/day3/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa01/jpa-day3-manytomany/src/main/java/com/tracy/demo/day3/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa01/jpa-day3-manytomany/src/main/java/com/tracy/demo/day3/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa01/jpa-day3-manytomany/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa01/jpa-day3-manytomany/src/test/java/com/tracy/demo/day3/test/ManyToManyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa01/jpa-day3-manytomany/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa01/jpa-day3-manytomany/target/classes/com/tracy/demo/day3/dao/RoleDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa01/jpa-day3-manytomany/target/classes/com/tracy/demo/day3/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa01/jpa-day3-manytomany/target/classes/com/tracy/demo/day3/entity/Role.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa01/jpa-day3-manytomany/target/classes/com/tracy/demo/day3/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa01/jpa-day3-manytomany/target/test-classes/com/tracy/demo/day3/test/ManyToManyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa01/jpa-day3/src/main/java/com/tracy/demo/day3/dao/LinkManDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa01/jpa-day3/src/main/java/com/tracy/demo/day3/entity/LinkMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa01/jpa-day3/src/test/java/com/tracy/demo/day3/test/ObjectQueryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa01/jpa-day3/src/test/java/com/tracy/demo/day3/test/OneToManyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa01/jpa-day3/target/classes/com/tracy/demo/day3/dao/LinkManDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa01/jpa-day3/target/classes/com/tracy/demo/day3/entity/LinkMan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/META-INF/leetcode.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tracy/demo/tracy20200423/PickArrayForSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tracy/practice/array/tracy20200428/CalMusicTime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/leetcode/com/tracy/practice/array/tracy20200429/SplitArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tracy/practice/array/tracy20200428/CalMusicTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tracy/practice/array/tracy20200429/SplitArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tracy/practice/array/tracy20200506/KDiff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tracy/practice/array/tracy20200507/DevideBy5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tracy/practice/array/tracy20200508/RemoveDupilcates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tracy/practice/array/tracy20200509/RemoveTargetEle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tracy/practice/array/tracy20200513/InsertEle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tracy/practice/array/tracy20200514/SplitArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tracy/practice/array/tracy20200515/BuildMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tracy/practice/array/tracy20200522/CalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tracy/practice/array/tracy20200522/SpellWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tracy/practice/array/tracy20200525/PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tracy/practice/array/tracy20200530/AltitudeInspector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-plus/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-plus/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-plus/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-plus/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-plus/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-plus/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-plus/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample-springfox" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/security-springboot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/src/main/java/com/tracy/security/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/src/main/java/com/tracy/security/demo/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/src/main/java/com/tracy/security/demo/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/src/main/java/com/tracy/security/demo/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/src/main/java/com/tracy/security/demo/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/src/main/java/com/tracy/security/demo/model/PermissionDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/src/main/java/com/tracy/security/demo/model/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/src/main/java/com/tracy/security/demo/service/SpringDataUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/src/main/webapp/WEB-INF/view/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springboot/src/test/java/com/tracy/security/demo/DemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/security-springmvc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/src/main/java/com/tracy/security/config/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/src/main/java/com/tracy/security/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/src/main/java/com/tracy/security/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/src/main/java/com/tracy/security/init/SpringApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/src/main/java/com/tracy/security/interceptor/SimpleAuthenticationInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/src/main/java/com/tracy/security/model/AuthenticationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/src/main/java/com/tracy/security/model/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/src/main/java/com/tracy/security/service/AuthenticationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/src/main/java/com/tracy/security/service/impl/AuthenticationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/src/main/webapp/WEB-INF/view/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/target/classes/com/tracy/security/config/ApplicationConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/target/classes/com/tracy/security/config/WebConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/target/classes/com/tracy/security/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/target/classes/com/tracy/security/init/SpringApplicationInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/target/classes/com/tracy/security/interceptor/SimpleAuthenticationInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/target/classes/com/tracy/security/model/AuthenticationRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/target/classes/com/tracy/security/model/UserDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/target/classes/com/tracy/security/service/AuthenticationService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/target/classes/com/tracy/security/service/impl/AuthenticationServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/target/tomcat/conf/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/target/tomcat/conf/tomcat-users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../security-springmvc/target/tomcat/conf/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-annotation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-annotation/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-annotation/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-annotation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-annotation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-annotation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-aop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-aop/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-aop/.idea/libraries/Spring_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-aop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-aop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-aop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-aop/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-aop/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-aop/lib/spring-aop-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-aop/lib/spring-aspects-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-aop/lib/spring-beans-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-aop/lib/spring-context-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-aop/lib/spring-context-support-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-aop/lib/spring-core-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-aop/lib/spring-expression-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-aop/lib/spring-instrument-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-aop/lib/spring-jdbc-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-aop/lib/spring-jms-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-aop/lib/spring-messaging-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-aop/lib/spring-orm-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-aop/lib/spring-oxm-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-aop/lib/spring-test-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-aop/lib/spring-tx-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security/spring-security.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security/src/main/java/com/tracy/security/config/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security/src/main/java/com/tracy/security/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security/src/main/java/com/tracy/security/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security/src/main/java/com/tracy/security/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security/src/main/java/com/tracy/security/init/SpringApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-security/src/main/java/com/tracy/security/init/SpringSecurityApplicationIntializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springjpa/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springjpa/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springjpa/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springjpa/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springjpa/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springjpa/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springjpa/src/main/java/com/tracy/jpa/demo/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springjpa/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springjpa/src/test/java/com/tracy/jpa/demo/demo/DemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springjpa2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/modules/global/src/com/company/test/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/modules/global/src/com/company/test/entity/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/core/db/update/mysql/20/200529-1-createSensorInfo.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/core/db/update/mysql/20/200529-2-updateSensorInfo.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/core/db/update/mysql/20/200529-2-updateSensorInfo01.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/core/db/update/mysql/20/200529-2-updateSensorInfo02.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/core/src/com/rosun/x/api/service/cert/PersonalCertInfoServiceBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/core/src/com/rosun/x/api/service/common/FileServiceBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/global/src/com/rosun/x/api/entity/cert/PersonalCertInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/global/src/com/rosun/x/api/entity/cert/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/global/src/com/rosun/x/api/entity/sensor/SensorInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/global/src/com/rosun/x/api/entity/sensor/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/global/src/com/rosun/x/api/service/cert/PersonalCertInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/global/src/com/rosun/x/api/service/common/FileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/web/src/com/rosun/x/api/ui-component.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/web/src/com/rosun/x/api/ui-components.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/web/src/com/rosun/x/api/web/exception/UniqueConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/web/src/com/rosun/x/api/web/messages_zh_CN.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/web/src/com/rosun/x/api/web/screens/cert/Img.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/web/src/com/rosun/x/api/web/screens/cert/PersonalCertInfoBrowse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/web/src/com/rosun/x/api/web/screens/cert/PersonalCertInfoEdit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/web/src/com/rosun/x/api/web/screens/cert/img.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/web/src/com/rosun/x/api/web/screens/cert/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/web/src/com/rosun/x/api/web/screens/cert/personal-cert-info-browse.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/web/src/com/rosun/x/api/web/screens/cert/personal-cert-info-edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/web/src/com/rosun/x/api/web/screens/sensorinfo/SensorInfoBrowse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/web/src/com/rosun/x/api/web/screens/sensorinfo/SensorInfoEdit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/web/src/com/rosun/x/api/web/screens/sensorinfo/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/web/src/com/rosun/x/api/web/screens/sensorinfo/sensor-info-browse.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/web/src/com/rosun/x/api/web/screens/sensorinfo/sensor-info-edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/web/src/com/rosun/x/api/web/screens/stepper/StepperField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/web/src/com/rosun/x/api/web/screens/stepper/StepperFieldLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x001/modules/web/src/com/rosun/x/api/web/screens/stepper/stepper-component.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yanhongbin-aliIot-spring-boot-starter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yx-framework" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpa01/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa01/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpa01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpa01/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa01/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpa01/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa01/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpa01/jpa-day3/src/main/java/com/tracy/demo/day3/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa01/jpa-day3/src/main/java/com/tracy/demo/day3/entity/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpa01/jpa-day3/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa01/jpa-day3/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpa01/jpa-day3/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa01/jpa-day3/target/classes/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpa01/jpa-day3/target/classes/com/tracy/demo/day3/entity/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jpa01/jpa-day3/target/classes/com/tracy/demo/day3/entity/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/tracy/practice/array/tracy20200429/SplitArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/tracy/practice/array/tracy20200429/SplitArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/tracy/tracy20200423/PickArrayForSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tracy/tracy20200423/PickArrayForSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tracy/practice/array/tracy20200423/PickArrayForSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/tracy/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis-plus/src/main/java/com/tracy/demo/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/tracy/demo/configuration/MyBatisPlusConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/tracy/demo/configuration/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/tracy/demo/entity/Users.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/tracy/demo/generator/CodeGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/tracy/demo/generator/sys/component/MyMetaObjectHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/tracy/demo/generator/sys/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/tracy/demo/generator/sys/controller/UsersController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/tracy/demo/generator/sys/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/tracy/demo/generator/sys/entity/Users.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/tracy/demo/generator/sys/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/tracy/demo/generator/sys/mapper/UsersMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/tracy/demo/generator/sys/service/IUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/tracy/demo/generator/sys/service/IUsersService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/tracy/demo/generator/sys/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/tracy/demo/generator/sys/service/impl/UsersServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/tracy/demo/mapper/UserMapper.xml.tld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/tracy/demo/service/UsersService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/tracy/demo/service/impl/UsersServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis-plus/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/mapper/sys/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/mapper/sys/UsersMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/tracy/demo/ARTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/tracy/demo/DeleteTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/tracy/demo/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis-plus/src/test/java/com/tracy/demo/DemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/tracy/demo/FillTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/tracy/demo/OptTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/tracy/demo/ServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/tracy/demo/UpdateTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\ideaprojects\leetcode\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b9r0egZvhrPtfHTbErAVuYJEmf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ideaprojects\leetcode\src\com\tracy\practice\tracy20200423" />
+      <recent name="E:\ideaprojects\leetcode\src\com\tracy\practice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SpellWords">
+    <configuration name="BuildMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tracy.practice.array.tracy20200515.BuildMatrix" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tracy.practice.array.tracy20200515.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tracy.practice.array.tracy20200522.CalArray" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tracy.practice.array.tracy20200522.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertEle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tracy.practice.array.tracy20200513.InsertEle" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tracy.practice.array.tracy20200513.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpellWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tracy.practice.array.tracy20200522.SpellWords" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tracy.practice.array.tracy20200522.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SplitArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tracy.practice.array.tracy20200514.SplitArray" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tracy.practice.array.tracy20200514.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpellWords" />
+        <item itemvalue="Application.CalArray" />
+        <item itemvalue="Application.BuildMatrix" />
+        <item itemvalue="Application.SplitArray" />
+        <item itemvalue="Application.InsertEle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20a59ca0-356b-45d7-8e63-50a5475b2da5" name="Default Changelist" comment="" />
+      <created>1588054928028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588054928028</updated>
+      <workItem from="1588054931149" duration="3305000" />
+      <workItem from="1588124369555" duration="4728000" />
+      <workItem from="1588223950030" duration="3017000" />
+      <workItem from="1588727553363" duration="1680000" />
+      <workItem from="1588731898447" duration="5559000" />
+      <workItem from="1588816420740" duration="6200000" />
+      <workItem from="1588900175871" duration="74000" />
+      <workItem from="1588902813418" duration="7414000" />
+      <workItem from="1588992229516" duration="4443000" />
+      <workItem from="1589341672281" duration="5919000" />
+      <workItem from="1589427979951" duration="2054000" />
+      <workItem from="1589510799908" duration="3216000" />
+      <workItem from="1589768537712" duration="197000" />
+      <workItem from="1589768765705" duration="146000" />
+      <workItem from="1590113315566" duration="9570000" />
+      <workItem from="1590370226587" duration="2476000" />
+      <workItem from="1590804303838" duration="1548000" />
+      <workItem from="1590974763631" duration="12000" />
+    </task>
+    <task id="LOCAL-00001" summary="leetcode practice">
+      <created>1588729131473</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588729131473</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="leetcode practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode practice" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="573" y="192" key="#Project_Structure" timestamp="1588054935295">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="573" y="192" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1588054935295" />
+    <state x="827" y="580" width="753" height="295" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1588819470944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="827" y="580" width="753" height="295" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588819470944" />
+    <state x="1350" y="392" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1588130477796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1350" y="392" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588130477796" />
+    <state x="493" y="243" key="CommitChangelistDialog2" timestamp="1588729130744">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="493" y="243" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588729130744" />
+    <state x="1154" y="424" key="FileChooserDialogImpl" timestamp="1589768915820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1154" y="424" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589768915820" />
+    <state x="880" y="425" key="Github.ShareDialog" timestamp="1588729167085">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="880" y="425" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588729167085" />
+    <state width="1430" height="170" key="GridCell.Tab.0.bottom" timestamp="1590138992458">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1430" height="170" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590138992458" />
+    <state width="1430" height="170" key="GridCell.Tab.0.center" timestamp="1590138992454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1430" height="170" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590138992454" />
+    <state width="1430" height="170" key="GridCell.Tab.0.left" timestamp="1590138992453">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1430" height="170" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590138992453" />
+    <state width="1430" height="170" key="GridCell.Tab.0.right" timestamp="1590138992457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1430" height="170" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590138992457" />
+    <state width="1430" height="226" key="GridCell.Tab.1.bottom" timestamp="1590138389620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1430" height="226" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590138389620" />
+    <state width="1430" height="226" key="GridCell.Tab.1.center" timestamp="1590138389620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1430" height="226" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590138389620" />
+    <state width="1430" height="226" key="GridCell.Tab.1.left" timestamp="1590138389620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1430" height="226" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590138389620" />
+    <state width="1430" height="226" key="GridCell.Tab.1.right" timestamp="1590138389620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1430" height="226" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590138389620" />
+    <state x="0" y="0" key="NewModule_or_Project.wizard" timestamp="1589353315696">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1589353315696" />
+    <state x="605" y="164" key="SettingsEditor" timestamp="1589768744513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="605" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589768744513" />
+    <state x="661" y="282" key="Vcs.Push.Dialog.v2" timestamp="1588729148754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="282" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588729148754" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1590370235194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590370235194" />
+    <state x="387" y="313" key="new project wizard" timestamp="1589768830963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="387" y="313" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1589768830963" />
+    <state x="570" y="292" key="run.anything.popup" timestamp="1588129371122">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="570" y="292" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588129371122" />
+    <state x="577" y="332" width="672" height="678" key="search.everywhere.popup" timestamp="1589348271630">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="577" y="332" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589348271630" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tracy/practice/array/tracy20200429/SplitArray.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tracy/practice/array/tracy20200429/SplitArray.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tracy/practice/array/tracy20200507/DevideBy5.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
