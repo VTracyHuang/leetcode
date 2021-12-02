@@ -19,8 +19,6 @@ public class LRUCache {
         public DLinkedNode() {
         }
 
-        ;
-
         public DLinkedNode(int key, int value) {
             this.key = key;
             this.value = value;
@@ -40,7 +38,14 @@ public class LRUCache {
         head.next = tail;
         tail.prev = head;
     }
-
+    public int get(int key){
+        DLinkedNode node = cache.get(key);
+        if(node == null){
+            return -1;
+        }
+        moveToHead(node);
+        return node.value;
+    }
     public void put(int key, int value) {
         DLinkedNode node = cache.get(key);
         if (node == null) {
